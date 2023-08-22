@@ -27,6 +27,6 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sandunrmst&show_icons=true&bg_color=ffffff&cache_seconds=1800&locale=en" alt="sandunrmst" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sandunrmst&show_icons=true&bg_color=ffffff&cache_seconds=1800&locale=en" alt="sandunrmst" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandunrmst&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="sandunrmst" /></p>
+<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sandunrmst&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="sandunrmst" /></p>
