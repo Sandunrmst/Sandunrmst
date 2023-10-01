@@ -8,7 +8,7 @@
 
   🌱 I’m currently learning **React**
 
-  👨‍💻 More details about me [https://sandunrmst.github.io/](https://sandunrmst.github.io/)
+  👨‍💻 More details about me [https://sandunrmst.com/](https://sandunrmst.com/)
 
   💬 Ask me about **Python**
 
